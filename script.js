@@ -184,3 +184,4 @@ contactForm?.addEventListener("submit", (e) => {
 
 /* ====== Footer year ====== */
 $("#year").textContent = new Date().getFullYear();
+
